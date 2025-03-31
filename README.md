@@ -1,6 +1,6 @@
 # ⚔️ Hail, Traveler! 👋
 
-![GIF](https://64.media.tumblr.com/9ff17c0c38e263bc139b1f560368616e/tumblr_o76dehrOs61u591fzo1_1280.gifv)
+![GIF](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fg4xfobrkmyf41.gif&rdt=35631.gif)
 
 ## 🏰 Who Art Thou? 👑
 
@@ -8,9 +8,9 @@ I am **Abdeljalil El Filaly**, a humble **Full-Stack Developer**, well-versed in
 
 Lo, I am but a humble **Full-Stack Developer**, well-versed in the arcane arts of code and system craft. My journey hath led me through many a perilous path, wherein I have honed my skills in the following disciplines:
 
-- 🔮 **Frontend Sorcery:** React, TypeScript, Angular
+- 🔮 **Frontend Sorcery:** React, TypeScript
 - 🏗 **Backend Alchemy:** NestJS, Express.js, Ruby on Rails, Laravel
-- 📜 **Tomes of Knowledge (Databases):** MongoDB, MySQL, PostgreSQL, Redis
+- 📜 **Tomes of Knowledge (Databases):** MongoDB, MySQL, Redis
 - ☁️ **The Clouds Above & Machines Beneath (Cloud & DevOps):** AWS (S3, API Gateway, Cognito, EC2), Docker, Docker Compose
 - 📊 **Divining the Mysteries of Data (Business Intelligence):** Talend, Power BI
 
