@@ -1,6 +1,6 @@
 # ⚔️ Hail, Traveler! 👋
 
-![GIF](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fg4xfobrkmyf41.gif&rdt=35631.gif)
+![GIF](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fg4xfobrkmyf41.gif&rdt=35631)
 
 ## 🏰 Who Art Thou? 👑
 
