@@ -4,9 +4,8 @@
 
 ## 🏰 Who Art Thou? 👑
 
-I am **Abdeljalil El Filaly**, a humble **Full-Stack Developer**, well-versed in the arcane arts of code and system craft.
 
-Lo, I am but a humble **Full-Stack Developer**, well-versed in the arcane arts of code and system craft. My journey hath led me through many a perilous path, wherein I have honed my skills in the following disciplines:
+I am **Abdeljalil El Filaly**, a humble **Full-Stack Developer**, well-versed in the arcane arts of code and system craft. My journey hath led me through many a perilous path, wherein I have honed my skills in the following disciplines:
 
 - 🔮 **Frontend Sorcery:** React, TypeScript
 - 🏗 **Backend Alchemy:** NestJS, Express.js, Ruby on Rails, Laravel
